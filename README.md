@@ -1,9 +1,4 @@
-<h1 align="center">Hi 👋 I'm Mohamed Fahim</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
-</p>
-
+Hi 👋 I'm Mohamed Fahim
 🎓 **B.Tech Information Technology Student**
 💻 **Web Developer | Cybersecurity Enthusiast | Open Source Contributor**
 🌱 Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full-Stack Development**.
