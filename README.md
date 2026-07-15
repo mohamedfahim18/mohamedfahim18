@@ -86,10 +86,6 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 
 <br>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F7FF,100:112240"/>
-</p>
-
 <div align="center">
 
 ## 📌 FEATURED PROJECTS
