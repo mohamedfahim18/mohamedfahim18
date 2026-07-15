@@ -1,11 +1,22 @@
-Hi 👋 I'm Mohamed Fahim
-🎓 **B.Tech Information Technology Student**
-💻 **Web Developer | Cybersecurity Enthusiast | Open Source Contributor**
+<div align="center">
+
+# Hi 👋 I'm Mohamed Fahim
+
+### 🎓 **B.Tech Information Technology Student**
+
+### 💻 **Web Developer | Cybersecurity Enthusiast | Open Source Contributor**
+
 🌱 Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full-Stack Development**.
+
+</div>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
+
+<table align="center">
+<tr>
+<td>
 
 * 🎓 B.Tech IT student passionate about technology and continuous learning.
 * 💻 Interested in Web Development, Cybersecurity, and AI-driven solutions.
@@ -13,62 +24,108 @@ Hi 👋 I'm Mohamed Fahim
 * 🛠️ Building projects to strengthen my practical development skills.
 * 🚀 Always eager to learn new technologies and contribute to meaningful projects.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-* HTML
-* CSS
-* JavaScript
-* Java (Learning)
-* Python
-* C
-* Node.js
-* MongoDB
-
-**Tools & Technologies**
-
-* Git
-* GitHub
-* Firebase
-* Vercel
-* VS Code
-* Linux (Learning)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📌 Featured Projects
+<h2 align="center">🛠️ Tech Stack</h2>
 
-* 🧮 Calculator
+<h3 align="center">💻 Languages</h3>
 
-More projects coming soon...
+<p align="center">
+
+`HTML`    •   
+`CSS`    •   
+`JavaScript`    •   
+`Java (Learning)`    •   
+`Python`    •   
+`C`    •   
+`Node.js`    •   
+`MongoDB`
+
+</p>
+
+<br>
+
+<h3 align="center">⚙️ Tools & Technologies</h3>
+
+<p align="center">
+
+`Git`    •   
+`GitHub`    •   
+`Firebase`    •   
+`Vercel`    •   
+`VS Code`    •   
+`Linux (Learning)`
+
+</p>
 
 ---
 
-## 🌱 Currently Learning
+<h2 align="center">📌 Featured Projects</h2>
 
-* Cybersecurity
-* Java
-* Data Structures & Algorithms
-* Full-Stack Development
-* Data Analytics
+<div align="center">
+
+🧮 **Calculator**
+
+<br>
+
+*More projects coming soon...*
+
+</div>
 
 ---
 
-## 🤝 Open Source
+<h2 align="center">🌱 Currently Learning</h2>
+
+<div align="center">
+
+|                              |
+| :--------------------------: |
+|         Cybersecurity        |
+|             Java             |
+| Data Structures & Algorithms |
+|    Full-Stack Development    |
+|        Data Analytics        |
+
+</div>
+
+---
+
+<h2 align="center">🤝 Open Source</h2>
+
+<table align="center">
+<tr>
+<td>
 
 * GirlScript Summer of Code (GSSoC) Contributor
 * Passionate about contributing to Open-Source Projects and collaborating with the Developer Community.
 
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/mohamedfahim18
-* LinkedIn: *https://www.linkedin.com/in/mohamed-fahim-82529736b*
+</td>
+</tr>
+</table>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<h2 align="center">📫 Connect With Me</h2>
+
+<div align="center">
+
+|   Platform   | Link                                                |
+| :----------: | :-------------------------------------------------- |
+|  **GitHub**  | https://github.com/mohamedfahim18                   |
+| **LinkedIn** | https://www.linkedin.com/in/mohamed-fahim-82529736b |
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+Feel free to explore my repositories and connect with me.
+
+</div>
