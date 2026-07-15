@@ -8,7 +8,7 @@
 
 ### 💻 **Web Developer | Cybersecurity Enthusiast | Open Source Contributor**
 
-🌱 Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full-Stack Development**.
+Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full-Stack Development**
 
 </div>
 
@@ -16,40 +16,44 @@
 
 <div align="center">
 
-# 🚀 ABOUT ME
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  🎓 B.Tech IT student passionate about technology and        │
-│     continuous learning.                                    │
-│                                                              │
-│  💻 Interested in Web Development, Cybersecurity, and        │
-│     AI-driven solutions.                                    │
-│                                                              │
-│  🌍 Open Source Contributor through GirlScript Summer        │
-│     of Code (GSSoC).                                        │
-│                                                              │
-│  🛠️ Building projects to strengthen my practical             │
-│     development skills.                                     │
-│                                                              │
-│  🚀 Always eager to learn new technologies and contribute    │
-│     to meaningful projects.                                 │
-└──────────────────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=320&lines=ABOUT+ME"/>
 
 </div>
 
----
-
-<div align="center">
-
-# 🛠️ TECH STACK
-
-<table>
+<table align="center" width="90%">
 <tr>
+<td>
+
+> 🎓 B.Tech IT student passionate about technology and continuous learning.
+>
+> 💻 Interested in Web Development, Cybersecurity, and AI-driven solutions.
+>
+> 🌍 Open Source Contributor through **GirlScript Summer of Code (GSSoC)**.
+>
+> 🛠️ Building projects to strengthen my practical development skills.
+>
+> 🚀 Always eager to learn new technologies and contribute to meaningful projects.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=350&lines=TECH+STACK"/>
+
+</div>
+
+<table align="center">
+<tr>
+
 <td align="center" width="50%">
 
 ### 💻 Languages
+
+<br>
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
@@ -73,6 +77,8 @@
 
 ### ⚙️ Tools & Technologies
 
+<br>
+
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -86,40 +92,21 @@
 <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </td>
+
 </tr>
 </table>
 
-</div>
-
 ---
 
 <div align="center">
 
-# 📌 FEATURED PROJECTS
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=FEATURED+PROJECTS"/>
 
-```text
-╔══════════════════════════════╗
-║        🧮 Calculator         ║
-╚══════════════════════════════╝
+|   🚀 Project  | Status |
+| :-----------: | :----: |
+| 🧮 Calculator |    ✅   |
 
-More projects coming soon...
-```
-
-</div>
-
----
-
-<div align="center">
-
-# 🌱 CURRENTLY LEARNING
-
-|       🔐      |   ☕  |              📚              |
-| :-----------: | :--: | :--------------------------: |
-| Cybersecurity | Java | Data Structures & Algorithms |
-
-|           🌐           |       📊       |
-| :--------------------: | :------------: |
-| Full-Stack Development | Data Analytics |
+### *More projects coming soon...*
 
 </div>
 
@@ -127,14 +114,11 @@ More projects coming soon...
 
 <div align="center">
 
-# 🤝 OPEN SOURCE
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=CURRENTLY+LEARNING"/>
 
-```text
-✓ GirlScript Summer of Code (GSSoC) Contributor
-
-✓ Passionate about contributing to Open-Source Projects
-  and collaborating with the Developer Community.
-```
+|      🔐 Cybersecurity     |       ☕ Java      | 📚 Data Structures & Algorithms |
+| :-----------------------: | :---------------: | :-----------------------------: |
+| 🌐 Full-Stack Development | 📊 Data Analytics |                                 |
 
 </div>
 
@@ -142,7 +126,21 @@ More projects coming soon...
 
 <div align="center">
 
-# 📫 CONNECT WITH ME
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=350&lines=OPEN+SOURCE"/>
+
+🌍 **GirlScript Summer of Code (GSSoC) Contributor**
+
+<br>
+
+💡 Passionate about contributing to Open-Source Projects and collaborating with the Developer Community.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=380&lines=CONNECT+WITH+ME"/>
 
 <a href="https://github.com/mohamedfahim18">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -154,11 +152,15 @@ More projects coming soon...
 
 <br><br>
 
-**GitHub:**
-https://github.com/mohamedfahim18
+**GitHub**
 
-**LinkedIn:**
-https://www.linkedin.com/in/mohamed-fahim-82529736b
+github.com/mohamedfahim18
+
+<br>
+
+**LinkedIn**
+
+linkedin.com/in/mohamed-fahim-82529736b
 
 </div>
 
@@ -166,14 +168,13 @@ https://www.linkedin.com/in/mohamed-fahim-82529736b
 
 <div align="center">
 
-```text
-████████████████████████████████████████████████████
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,100:0077B5"/>
 
-⭐ Thanks for visiting my profile!
-Feel free to explore my repositories and connect with me.
+# ⭐ Thanks for visiting my profile!
 
-████████████████████████████████████████████████████
-```
+### Feel free to explore my repositories and connect with me.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0077B5,100:00F7FF"/>
 
 </div>
 
