@@ -149,7 +149,7 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://instagram.com/an_ordinary_person_18">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
@@ -161,7 +161,7 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 
 ### 🌐 GitHub
 
-github.com/mohamedfahim18
+<a>github.com/mohamedfahim18</a>
 
 </td>
 
@@ -169,7 +169,7 @@ github.com/mohamedfahim18
 
 ### 💼 LinkedIn
 
-linkedin.com/in/mohamed-fahim-82529736b
+<a>linkedin.com/in/mohamed-fahim-82529736b</a>
 
 </td>
 
@@ -180,7 +180,7 @@ linkedin.com/in/mohamed-fahim-82529736b
 
 ### 📷 Instagram
 
-instagram.com/an_ordinary_person_18
+<a>instagram.com/an_ordinary_person_18</a>
 
 </td>
 
