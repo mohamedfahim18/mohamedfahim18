@@ -1,6 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=MOHAMED%20FAHIM%20U&fontColor=00F5FF&fontSize=50&fontAlignY=40&desc=Web%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0B0F19,50:112240,100:00C6FF&text=CYBER%20SECURITY%20COMMAND%20CENTER&fontSize=42&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=MOHAMED%20FAHIM&descAlignY=55&descSize=28"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=ACCESS+GRANTED...;WELCOME+TO+MY+GITHUB+PROFILE;WEB+DEVELOPER;CYBERSECURITY+ENTHUSIAST;OPEN+SOURCE+CONTRIBUTOR"/>
+
+<br>
 
 # Hi 👋 I'm Mohamed Fahim
 
@@ -8,7 +12,7 @@
 
 ### 💻 **Web Developer | Cybersecurity Enthusiast | Open Source Contributor**
 
-Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full-Stack Development**
+🌱 Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full-Stack Development**
 
 </div>
 
@@ -16,44 +20,43 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=320&lines=ABOUT+ME"/>
+# 🚀 ABOUT ME
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F7FF,100:0B0F19"/>
 
 </div>
 
-<table align="center" width="90%">
-<tr>
-<td>
+```yaml
+STATUS            : ACTIVE
+PROFILE           : STUDENT
 
-> 🎓 B.Tech IT student passionate about technology and continuous learning.
->
-> 💻 Interested in Web Development, Cybersecurity, and AI-driven solutions.
->
-> 🌍 Open Source Contributor through **GirlScript Summer of Code (GSSoC)**.
->
-> 🛠️ Building projects to strengthen my practical development skills.
->
-> 🚀 Always eager to learn new technologies and contribute to meaningful projects.
+🎓 B.Tech IT student passionate about technology and continuous learning.
 
-</td>
-</tr>
-</table>
+💻 Interested in Web Development, Cybersecurity, and AI-driven solutions.
+
+🌍 Open Source Contributor through GirlScript Summer of Code (GSSoC).
+
+🛠️ Building projects to strengthen my practical development skills.
+
+🚀 Always eager to learn new technologies and contribute to meaningful projects.
+```
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=350&lines=TECH+STACK"/>
+# 🛠️ TECH STACK
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F7FF,100:0B0F19"/>
 
 </div>
 
 <table align="center">
 <tr>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### 💻 Languages
-
-<br>
+## 💻 Languages
 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
@@ -67,17 +70,15 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </td>
 
-<td align="center" width="50%">
+<td width="50%" align="center">
 
-### ⚙️ Tools & Technologies
-
-<br>
+## ⚙️ Tools & Technologies
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -87,7 +88,7 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
@@ -100,9 +101,11 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=FEATURED+PROJECTS"/>
+# 📌 FEATURED PROJECTS
 
-|   🚀 Project  | Status |
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F7FF,100:0B0F19"/>
+
+|   🚀 PROJECT  | STATUS |
 | :-----------: | :----: |
 | 🧮 Calculator |    ✅   |
 
@@ -114,7 +117,9 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=CURRENTLY+LEARNING"/>
+# 🌱 CURRENTLY LEARNING
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F7FF,100:0B0F19"/>
 
 |      🔐 Cybersecurity     |       ☕ Java      | 📚 Data Structures & Algorithms |
 | :-----------------------: | :---------------: | :-----------------------------: |
@@ -126,7 +131,9 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=350&lines=OPEN+SOURCE"/>
+# 🤝 OPEN SOURCE
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F7FF,100:0B0F19"/>
 
 🌍 **GirlScript Summer of Code (GSSoC) Contributor**
 
@@ -140,7 +147,9 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=380&lines=CONNECT+WITH+ME"/>
+# 📫 CONNECT WITH ME
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F7FF,100:0B0F19"/>
 
 <a href="https://github.com/mohamedfahim18">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -168,14 +177,10 @@ linkedin.com/in/mohamed-fahim-82529736b
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00F7FF,100:0077B5"/>
-
-# ⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=120&color=0:0B0F19,100:00C6FF&text=THANKS%20FOR%20VISITING%20MY%20PROFILE!&fontColor=00F7FF&fontSize=28"/>
 
 ### Feel free to explore my repositories and connect with me.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0077B5,100:00F7FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0B0F19,50:112240,100:00C6FF"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
