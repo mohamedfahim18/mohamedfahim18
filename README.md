@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=MOHAMED%20FAHIM&fontColor=00F5FF&fontSize=50&fontAlignY=40&desc=Web%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=MOHAMED%20FAHIM%20U&fontColor=00F5FF&fontSize=50&fontAlignY=40&desc=Web%20Developer%20%7C%20Cybersecurity%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58"/>
 
 # Hi 👋 I'm Mohamed Fahim
 
