@@ -73,7 +73,11 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,linux,vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,firebase,vscode"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
 
 </td>
 
@@ -108,10 +112,11 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 
 ## 🌱 CURRENTLY LEARNING
 
-|         🔐 Cybersecurity        |           ☕ Java          |
+|              ☕ Java             |      🔐 Cybersecurity     |
 | :-----------------------------: | :-----------------------: |
 | 📚 Data Structures & Algorithms | 🌐 Full-Stack Development |
-|        📊 Data Analytics        |             🚀            |
+|            🟨 Node.js           |        🗄️ MongoDB        |
+|           🔥 Firebase           |       🚀 Open Source      |
 
 </div>
 
@@ -141,6 +146,8 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 
 ## 📫 CONNECT WITH ME
 
+<br>
+
 <a href="https://github.com/mohamedfahim18">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -149,17 +156,51 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 <br><br>
 
-**GitHub**
+<table align="center">
+<tr>
+<td align="center">
+
+### 🌐 GitHub
 
 github.com/mohamedfahim18
 
-<br>
+</td>
 
-**LinkedIn**
+<td align="center">
+
+### 💼 LinkedIn
 
 linkedin.com/in/mohamed-fahim-82529736b
+
+</td>
+
+</tr>
+
+<tr>
+<td align="center">
+
+### 📷 Instagram
+
+instagram.com/YOUR_USERNAME
+
+</td>
+
+<td align="center">
+
+### 📱 Phone
+
++91 XXXXXXXXXX
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
