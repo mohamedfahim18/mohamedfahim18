@@ -10,65 +10,83 @@
 
 </div>
 
----
-
-<h2 align="center">🚀 About Me</h2>
-
-<table align="center">
-<tr>
-<td>
-
-* 🎓 B.Tech IT student passionate about technology and continuous learning.
-* 💻 Interested in Web Development, Cybersecurity, and AI-driven solutions.
-* 🌍 Open Source Contributor through **GirlScript Summer of Code (GSSoC)**.
-* 🛠️ Building projects to strengthen my practical development skills.
-* 🚀 Always eager to learn new technologies and contribute to meaningful projects.
-
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+## 🚀 About Me
 
-<h3 align="center">💻 Languages</h3>
-
-<p align="center">
-
-`HTML`    •   
-`CSS`    •   
-`JavaScript`    •   
-`Java (Learning)`    •   
-`Python`    •   
-`C`    •   
-`Node.js`    •   
-`MongoDB`
-
-</p>
+> 🎓 B.Tech IT student passionate about technology and continuous learning.
+>
+> 💻 Interested in Web Development, Cybersecurity, and AI-driven solutions.
+>
+> 🌍 Open Source Contributor through **GirlScript Summer of Code (GSSoC)**.
+>
+> 🛠️ Building projects to strengthen my practical development skills.
+>
+> 🚀 Always eager to learn new technologies and contribute to meaningful projects.
 
 <br>
 
-<h3 align="center">⚙️ Tools & Technologies</h3>
+---
 
-<p align="center">
+## 🛠️ Tech Stack
 
-`Git`    •   
-`GitHub`    •   
-`Firebase`    •   
-`Vercel`    •   
-`VS Code`    •   
-`Linux (Learning)`
+<table align="center">
+<tr>
 
-</p>
+<td align="center" valign="top" width="50%">
+
+### 💻 Languages
+
+HTML
+
+CSS
+
+JavaScript
+
+Java (Learning)
+
+Python
+
+C
+
+Node.js
+
+MongoDB
+
+</td>
+
+<td align="center" valign="top" width="50%">
+
+### ⚙️ Tools & Technologies
+
+Git
+
+GitHub
+
+Firebase
+
+Vercel
+
+VS Code
+
+Linux (Learning)
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 ---
 
-<h2 align="center">📌 Featured Projects</h2>
+## 📌 Featured Projects
 
 <div align="center">
 
-🧮 **Calculator**
+🧮 Calculator
 
 <br>
 
@@ -76,55 +94,51 @@
 
 </div>
 
+<br>
+
 ---
 
-<h2 align="center">🌱 Currently Learning</h2>
+## 🌱 Currently Learning
 
 <div align="center">
 
-|                              |
-| :--------------------------: |
-|         Cybersecurity        |
-|             Java             |
-| Data Structures & Algorithms |
-|    Full-Stack Development    |
-|        Data Analytics        |
+|      Cybersecurity     |      Java      | Data Structures & Algorithms |
+| :--------------------: | :------------: | :--------------------------: |
+| Full-Stack Development | Data Analytics |                              |
 
 </div>
 
+<br>
+
 ---
 
-<h2 align="center">🤝 Open Source</h2>
-
-<table align="center">
-<tr>
-<td>
+## 🤝 Open Source
 
 * GirlScript Summer of Code (GSSoC) Contributor
 * Passionate about contributing to Open-Source Projects and collaborating with the Developer Community.
 
-</td>
-</tr>
-</table>
+<br>
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+## 📫 Connect With Me
 
 <div align="center">
 
-|   Platform   | Link                                                |
+|   Platform   | Profile                                             |
 | :----------: | :-------------------------------------------------- |
 |  **GitHub**  | https://github.com/mohamedfahim18                   |
 | **LinkedIn** | https://www.linkedin.com/in/mohamed-fahim-82529736b |
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 Feel free to explore my repositories and connect with me.
 
