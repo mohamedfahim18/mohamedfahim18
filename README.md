@@ -77,7 +77,6 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
 
 </td>
 
