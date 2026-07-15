@@ -187,7 +187,7 @@ linkedin.com/in/mohamed-fahim-82529736b
 
 ### 📷 Instagram
 
-instagram.com/YOUR_USERNAME
+instagram.com/an_ordinary_person_18
 
 </td>
 
@@ -195,7 +195,7 @@ instagram.com/YOUR_USERNAME
 
 ### 📱 Phone
 
-+91 XXXXXXXXXX
++91 9043689766
 
 </td>
 
