@@ -90,9 +90,7 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 ## 📌 FEATURED PROJECTS
 
 |   🚀 Project  | Status |
-| :-----------: | :----: |
 | 🧮 Calculator |    ✅   |
-| :-----------: | :----: |
 | ☎️ Contact Saver |    ✅   | 
 | :-----------: | :----: |
 
