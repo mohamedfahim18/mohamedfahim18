@@ -114,7 +114,7 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 | :-----------------------------: | :-----------------------: |
 | 📚 Data Structures & Algorithms | 🌐 Full-Stack Development |
 |            🟨 Node.js           |        🗄️ MongoDB        |
-|           🔥 Firebase           |       🚀 Open Source      |
+|           🔧 Express.js           |       🚀 Open Source      |
 
 </div>
 
