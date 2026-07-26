@@ -93,6 +93,7 @@ Currently learning **Java, Cybersecurity, Data Structures & Algorithms, and Full
 |-----------|:------:|
 | 🧮 Calculator | ✅ |
 | ☎️ Contact Saver | ✅ |
+| 🔗 URLclip | ✅ |
 
 ### *More projects coming soon...*
 
